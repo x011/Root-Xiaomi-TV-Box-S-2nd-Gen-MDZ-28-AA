@@ -252,4 +252,5 @@ Note:
  - Sources:
    - [Rooting Xiaomi TV Box S 2nd Gen (jaws) without UART/teardown](https://gist.github.com/supechicken/3c8378be3469bc2f82b7b319f202ed82)
    - [Обсуждение Xiaomi Discussion TV Box S 2nd Gen (MDZ-28-AA)](https://4pda.to/forum/index.php?showtopic=1068290)
+ - You can change the Google TV Launcher with the Android TV: [https://github.com/davigamer987/atv-adfree-module](https://github.com/davigamer987/atv-adfree-module)
  - I'm not reponsible for any brick, be wise.
