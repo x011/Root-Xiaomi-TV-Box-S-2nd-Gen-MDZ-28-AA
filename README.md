@@ -24,19 +24,17 @@ Instructions and Files to Root a Brand-New Xiaomi TV Box S 2nd Gen - MDZ-28-AA
 1. Unplug all wires except HDMI.
 2. On the PC terminal, go to folder `MDZ-28-AA` and issue the following `fastboot` commands:
 
-```bash
-fastboot reboot bootloader
-```
+ - `fastboot reboot bootloader`
 
-3. Terminal should say:
+Terminal should say:
 
 ```bash
 Rebooting into bootloader                            OKAY [  0.000s]
 < waiting for any device >
 ```
 
-4. Plug in the USB-A to USB-A cable.
-5. Plug in the power.
+3. Plug in the USB-A to USB-A cable.
+4. Plug in the power.
 
 Terminal should say:
 
@@ -44,13 +42,11 @@ Terminal should say:
 Finished. Total time: 5.159s
 ```
 
-6. Wait for bootloader screen, and then unlock:
+5. Wait for bootloader screen, and then unlock:
 
-```bash
-fastboot flashing unlock
-```
+ - `fastboot flashing unlock`
 
-7. Confirm unlock:
+6. Confirm unlock:
 
  - `fastboot getvar unlocked`
 
