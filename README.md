@@ -192,7 +192,7 @@ Finished. Total time: 0.002s
 ![usb_debugging](https://github.com/user-attachments/assets/71ce37d1-6eb2-44a1-89e9-fd401948271a)
 
 
-### Install Magisk and FX File Explorer
+### Install Magisk
 
 From the PC, inside `MDZ-28-AA` folder, issue the following commands:
 
