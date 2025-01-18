@@ -52,8 +52,9 @@ fastboot flashing unlock
 
 7. Confirm unlock:
 
+ - `fastboot getvar unlocked`
+
 ```bash
-fastboot getvar unlocked
 unlocked: yes
 Finished. Total time: 0.001s
 ```
