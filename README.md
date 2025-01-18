@@ -253,4 +253,7 @@ root
 Note:
 
  - If you are stuck on the Google TV logo, try going into fastboot as explained above and run: `fastboot -w`. This will erase all user data and should allow you to bypass the loop. Please note this will erase all your data, apps, etc.
+ - Sources:
+   - [Rooting Xiaomi TV Box S 2nd Gen (jaws) without UART/teardown](https://gist.github.com/supechicken/3c8378be3469bc2f82b7b319f202ed82)
+   - [Обсуждение Xiaomi Discussion TV Box S 2nd Gen (MDZ-28-AA)](https://4pda.to/forum/index.php?showtopic=1068290)
  - I'm not reponsible for any brick, be wise.
