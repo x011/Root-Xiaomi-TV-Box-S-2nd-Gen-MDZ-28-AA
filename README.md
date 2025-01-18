@@ -198,7 +198,6 @@ From the PC, inside `MDZ-28-AA` folder, issue the following commands:
 
 ```bash
 adb install Magisk-v28.1.apk
-adb install nextapp.fx.apk
 ```
 
 Open the Magisk app from within the apps menu:
