@@ -180,7 +180,7 @@ Finished. Total time: 0.002s
 
 ### Configure the Device
 
-1. Configure the device as normal (Wi-Fi, Google account, etc.).
+1. Configure the device normally (Wi-Fi, Google account, etc.).
 2. Enable developer options:
    - Click 5 times on: `Settings > System > About > Android TV OS Build`.
 
