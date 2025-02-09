@@ -220,7 +220,7 @@ Install the app normally.
 
 ![magisk_install_patch](https://github.com/user-attachments/assets/46280b19-329a-4014-aa44-3e63b98b7454)
 
-3. Select "`Direct Install (recommended)`".
+3. Select "`Direct Install (Recommended)`".
 
 ![magisk_direct_install](https://github.com/user-attachments/assets/b75461e6-3936-4359-9c84-30154b196153)
 
